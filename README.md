@@ -11,4 +11,4 @@ Content Summary
 3. Data exploration
 4. Modeling
 
-author:Jiayao Chen
+Author:Jiayao Chen
