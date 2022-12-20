@@ -1,4 +1,4 @@
-# analyze-HR-data
+# Analyze-HR-data
 Use logistic regression to complete employee departure prediction
 
 The dataset comes from the Kaggle competition platform, with a total of 14,999 samples and 10 features. 
