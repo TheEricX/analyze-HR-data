@@ -10,3 +10,5 @@ Content Summary
 2. Data cleaning
 3. Data exploration
 4. Modeling
+
+author:Jiayao Chen
